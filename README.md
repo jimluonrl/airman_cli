@@ -1,7 +1,7 @@
 # airman_cli
 onos cli overlay for airman
 
-Run inside the ONOS VM
+Run inside the ONOS VM (tested with ONOS tutorial VM)
 
 build with:
 mvn clean install
