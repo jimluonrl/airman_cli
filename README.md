@@ -3,6 +3,9 @@ onos cli overlay for airman
 
 Run inside the ONOS VM (tested with ONOS tutorial VM)
 
+set version with:
+export ONOS_POM_VERSION=1.15.0 (your onos version)
+
 build with:
 mvn clean install
 
